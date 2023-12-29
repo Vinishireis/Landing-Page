@@ -6,3 +6,4 @@ To implement a landing page with swipe, developers typically use a combination o
 
 <a href=" https://github.com/Vinishireis"></a>
 
+<img width="930" alt="image" src="https://github.com/Vinishireis/Landing-Page/assets/95651095/e0cca4f9-2293-4847-bf63-19ac83e250fc">
